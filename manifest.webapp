@@ -1,0 +1,16 @@
+{
+  "version": "1.1",
+  "name": "Image Puzzle",
+  "description": "Browser based sliding image puzzle game",
+  "launch_path": "/imagepuzzle/index.html",
+  "icons": {
+    "16": "/icons/icon-16.png",
+    "48": "/icons/icon-48.png",
+    "128": "/icons/icon-128.png"
+  },
+  "developer": {
+    "name": "justc0de",
+    "url": "https://github.com/justc0de/imagepuzzle"
+  },
+  "default_locale": "en"
+}
